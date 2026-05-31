@@ -28,12 +28,16 @@ This project delivers a data-driven analytics solution that empowers pharmacy le
 
 ## Solution
 
-A two-tier Tableau dashboard:
+A two-tier interactive Tableau dashboard:
 
-- **Executive Overview** — KPI scorecard, state map, and wait-time trend for leadership
-- **Operational Detail** — Heatmap, store ranking, regional comparison, and satisfaction correlation for managers
+### 🔗 Live Dashboards
 
-Both dashboards feature interactive filtering, role-based views, and a HIPAA-compliant data layer.
+- **[Executive Overview](https://public.tableau.com/app/profile/cizen.bhatta/viz/RxSpeed/ExecutiveOverview)** — KPI scorecard, state map, and wait-time trend for leadership
+- **[Operational Detail](https://public.tableau.com/app/profile/cizen.bhatta/viz/RxSpeed/OperationalDetail)** — Heatmap, store ranking, regional comparison, and satisfaction correlation for managers
+
+Both dashboards feature interactive filtering, role-based views, click-the-map drill-down, and a HIPAA-compliant data layer.
+
+**Try it:** Click a state on the map to filter the KPIs in real time, or hover over the heatmap to see the worst peak-hour bottlenecks.
 
 ---
 
@@ -112,3 +116,8 @@ Cizen Bhatta
 Business Analyst (Portfolio Project)
 cijanbhatta@gmail.com
 https://www.linkedin.com/in/cizen/
+
+
+https://public.tableau.com/app/profile/cizen.bhatta/viz/RxSpeed/OperationalDetail?publish=yes
+
+https://public.tableau.com/app/profile/cizen.bhatta/viz/RxSpeed/ExecutiveOverview?publish=yes
